@@ -1,0 +1,11 @@
+{
+  "Snippet name": {
+    "prefix": "foo",
+    "body": [
+      "foo",
+      "bar",
+      "baz",
+      "end"
+    ]
+  }
+}
