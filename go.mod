@@ -1,4 +1,4 @@
-module snippets2md
+module github.com/martinhrvn/snippets2md
 
 go 1.19
 
